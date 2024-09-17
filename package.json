@@ -19,7 +19,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "bitfinex-api-node": "^4.0.13",
+    "bitfinex-api-node": "^7.0.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "crypto-js": "^4.0.0",
